@@ -1,3 +1,3 @@
 # ReactLearning
 
-Messing around learning React.
+Messing around learning React *and tailwind*.
